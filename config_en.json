@@ -33,14 +33,40 @@
             "marginLeft": 12.0,
             "items": [
                 {
-                    "image": "https://cdn.shopify.com/s/files/1/0920/3115/6297/files/Payment_fixed_banner_English.jpg?width=1440",
+                    "image": "https://cdn.shopify.com/s/files/1/0920/3115/6297/files/Buy_4_Get_1_Perfume_banner_English.jpg?width=1440",
                     "showSubcategory": false,
                     "bannerWithProduct": false,
                     "defaultShowProduct": false,
                     "video": "",
                     "products": [],
                     "productLength": 3,
-                    "type": "image"
+                    "type": "image",
+                    "key": "cPEyfiDnYE",
+                    "category": "gid://shopify/Collection/659301662793"
+                },
+                {
+                    "image": "https://cdn.shopify.com/s/files/1/0920/3115/6297/files/Buy_4_Get_1_Perfume_Men_banner_English.jpg?width=1440",
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "defaultShowProduct": false,
+                    "video": "",
+                    "products": [],
+                    "productLength": 3,
+                    "type": "image",
+                    "key": "rPrFYzmAHo",
+                    "category": "gid://shopify/Collection/665993773129"
+                },
+                {
+                    "image": "https://cdn.shopify.com/s/files/1/0920/3115/6297/files/Buy_2_Get_50_Perfume_banner_English.jpg?width=1440",
+                    "showSubcategory": false,
+                    "bannerWithProduct": false,
+                    "defaultShowProduct": false,
+                    "video": "",
+                    "products": [],
+                    "productLength": 3,
+                    "type": "image",
+                    "key": "uMqCaPPryA",
+                    "category": "gid://shopify/Collection/666789249097"
                 },
                 {
                     "image": "https://cdn.shopify.com/s/files/1/0920/3115/6297/files/5_dinar_English_2_1.jpg?width=1440",
@@ -51,31 +77,6 @@
                     "products": [],
                     "productLength": 3,
                     "type": "image"
-                },
-                {
-                    "image": "https://cdn.shopify.com/s/files/1/0920/3115/6297/files/B1G20_Perfume_banner_English.jpg?width=1440",
-                    "showSubcategory": false,
-                    "bannerWithProduct": false,
-                    "defaultShowProduct": false,
-                    "video": "",
-                    "products": [],
-                    "productLength": 3,
-                    "type": "image",
-                    "key": "TWpRUStmWk",
-                    "category": "gid://shopify/Collection/666789249097",
-                    "name": ""
-                },
-                {
-                    "image": "https://cdn.shopify.com/s/files/1/0920/3115/6297/files/B1G20_Skincare_banner_English.jpg?width=1440",
-                    "showSubcategory": false,
-                    "bannerWithProduct": false,
-                    "defaultShowProduct": false,
-                    "video": "",
-                    "products": [],
-                    "productLength": 3,
-                    "type": "image",
-                    "key": "zzFnRkfYYD",
-                    "category": "gid://shopify/Collection/659978518601"
                 },
                 {
                     "image": "https://cdn.shopify.com/s/files/1/0920/3115/6297/files/collection_3_banner_English.jpg?width=1440",
@@ -1818,5 +1819,6 @@
     "overrideTranslation": {
         "@@locale": "en",
         "startShopping": "Shop now"
-    }
+    },
+    "Datetime": "2026-05-20T13:39:32.082877"
 }
